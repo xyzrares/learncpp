@@ -17,10 +17,6 @@ A command-line tool that converts between common units and calculates BMI.
 - if / else if branching
 - Fundamental data types (double, int, bool) and static_cast
 
-## How I built it
-
-Brief notes on your process — what was tricky, what you learned, any bugs you ran into and fixed.
-
 ## How to build and run
 
 \```bash
