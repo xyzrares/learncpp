@@ -34,9 +34,3 @@ Choose a conversion:
 4. Miles to Kilometers
 5. Calculate BMI
 \```
-
-## Stretch goals
-
-- [ ] Loop the menu so the user can do multiple conversions without restarting the program
-- [ ] Validate input (reject letters where a number is expected, or an invalid menu choice)
-- [ ] Add more conversions (pounds ↔ kg, feet ↔ meters)
