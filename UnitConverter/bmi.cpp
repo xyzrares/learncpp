@@ -1,3 +1,4 @@
+#include "bmi.h"
 
 double calculateBMI( double weightKg, double heightM )
 {
